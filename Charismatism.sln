@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Charismatism", "Charismatism.njsproj", "{86AA932F-25D4-4D08-B9FC-44F6FA16B13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AA932F-25D4-4D08-B9FC-44F6FA16B13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AA932F-25D4-4D08-B9FC-44F6FA16B13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AA932F-25D4-4D08-B9FC-44F6FA16B13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AA932F-25D4-4D08-B9FC-44F6FA16B13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17965B69-E646-41CD-9E08-6E83CD90142C}
+	EndGlobalSection
+EndGlobal
